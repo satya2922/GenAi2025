@@ -1,4 +1,4 @@
-package Day3
+package Day3.Questions
 
 fun main() {
     for (price in 1..10) {

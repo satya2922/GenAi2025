@@ -1,4 +1,4 @@
-package Day3
+package Questions
 
 fun main(){
     val coffeeShop = "Starbuzz"

@@ -1,4 +1,4 @@
-package Day3
+package Day3.Questions
 
 fun main(){
     val customerAge = 65
