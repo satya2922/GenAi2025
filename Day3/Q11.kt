@@ -1,4 +1,4 @@
-package Questions
+package Day3
 
 fun main(){
     var brewStrength = 0
